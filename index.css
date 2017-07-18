@@ -1,0 +1,17 @@
+.active {
+   color: green;
+}
+
+.schedule {
+  color: blue;
+}
+
+
+.done {
+  text-decoration: line-through;
+}
+
+.deleted {
+  color: red;
+  text-decoration: line-through;
+}
